@@ -4,7 +4,7 @@
    "remote":      "github",
    "repository":  "DirtyUnicorns/android_kernel_lge_bullhead",
    "target_path": "kernel/lge/bullhead",
-   "branch":      "n7"
+   "branch":      "n7x"
  },
  {
    "repository":  "platform_vendor_lge",
